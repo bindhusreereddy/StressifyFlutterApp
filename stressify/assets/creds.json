@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stressifybot-ebfx",
+  "private_key_id": "5ff62e105fda96b45425d8896df5547fedc336f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAoz0BODRJmXJ/\nhs+5Pc6j/LGgSSmvpLxQKFoRBbetpH8d35JlFqdiKhXhsXzZPjBF5tshtc9JT0PG\nXiPHNETRe/xXH59gOH4gLg6o2I1zdSS1jD3hW33LTj3FIYmInE25LChV82+dRYtD\ninaH/wV/jR4f3oxmTsg/Umf1H3/yMgl0+Eoz+Px4xtLvQ1hJf7XcxgV6kvJ35/jG\ngb2h4itvBu2Rhj2/eYOH/3NU+SK+iXyWz+22UmeogBdAaB96uVpLJDspJdtT9APh\nl9SauS+tHskNezx0VHo97PW5N8jYErIL6S731KUf6QpcZrK10GK4EYVWRxX7jAD7\njm4q0TwLAgMBAAECggEAHvgfTprijRKGPcpGitlM50AwrjwU34/0Vk6mbCYnKVtQ\ntFTFDEtgDYAGlIocMDC3QgWjJQA9muOLWdC4n8Xfam4sWzVSQf3TCQlegfaOhwlG\nJYmuSRSUXKLve0mw+q1mMWbP9UF1qCsOAIW6GJL/J0pglW8J00jHGKb+34F46E6r\ndHdkQokw9tqgtPmbQVWvYQpUsd4MEGCT6PXmDddieJwq8oxHeEuULvezGeDFig07\novj/AmuwDqsPBnrNcTrq4jYYH+2J85xseHuba3/u4WVuqsvlntCvZUZbsWkFS9kW\npzWxFB1U8wjKblbjb11jfRboUiAQygBRP1MilRa7AQKBgQDt0RViRljs3u2jnBgg\ncP47rvqU3pPxTa2KUDBa4E36X2/AeSujII7cXoDN3l/LrDaIwQ715kPgc1Xs7b0S\nHCqS2oYGjba6KnsFCT4NpR7VvjqAYP5f5UjZxdNgJWT1E6iNTlWI6xwhOO1g+RaU\nLBRxh0HJFAoobg9L69OCMfUUsQKBgQDPXdcH9EvPELjtojnKiDQYoWjxk5IzjEco\nDw68qe0166nAFBio5NHblUgrWoOVZjq2BEruNHx82SWOZE/8jfpdxC2aH0gDZMxi\nDf99T4UbHaH/lLX/3shqF4wNIKKm8PeXnNCtZGzgB7Gp/gIhG4AA4BXGiS2AQp+d\n8FQMO+O7ewKBgQDLx3Z4YGlAh4G/yTiPS+M9hyFnQRYqFfKXa0EUDdIjsXWTywCO\nZo6j3EKopV0WrDmKk0tbf/U3tfyx6cEybHo6ng9sPDCQc2g4l4PZs1ypsLh2WyZ9\nS35SRQZsA37v1el/M9ltWnEfMqWNi8NCMkdORKUlRQuzOyPWXXw+usoT8QKBgBES\nBYiXGMKD+uU9DIraqYc5il0Qq+Foc9cdXjYzut5Mdx3jyZ/lrkzoPherjNd4oe6n\n7c8sLO9OJORS566/tVOQubxNRO1al+SeiGC1chyoVNSoVk8o9NCe/Z17CUi633bw\nptEPSlMq7voyedRl4iSwTbqZQlCjq2YiCZk0OOwPAoGBAOcb/ArYtBDxIjzF4npU\n5a+8Gc1+Nz3Op6ps8sUTY20+r0QnL3jI3FvFvyAqTFmBHPbNVD1GIx8FX3Ky+QcM\nwNGYkpsM+b48SSGrLAqKigdu1ZsYS3R2hIHIFrpsMOAGgOBtOIROIW3oeImVPKyE\nlG1Tzm4Xb/uaATYTCqHfSvVh\n-----END PRIVATE KEY-----\n",
+  "client_email": "stressifybot-serviceaccount@stressifybot-ebfx.iam.gserviceaccount.com",
+  "client_id": "106689596993114447847",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stressifybot-serviceaccount%40stressifybot-ebfx.iam.gserviceaccount.com"
+}
